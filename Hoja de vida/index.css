@@ -1,0 +1,27 @@
+.titulo {
+    color: rgb(255, 255, 255);
+    background-color: rgb(166, 213, 24);
+    padding: 5px;
+ }
+
+ .pass {
+    color:black;
+    padding: 10px;
+ }
+
+.imagen {
+  text-align: center;
+  
+ }
+
+ .columna1 {
+    width: 35%;
+    vertical-align: top;
+    padding: 25px;
+ }
+
+ .columna2 {
+    width: 88%;
+    vertical-align: top;
+    padding: 20px;
+ }
